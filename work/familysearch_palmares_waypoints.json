@@ -1,0 +1,334 @@
+{
+  "links" : {
+    "self" : {
+      "href" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L29:1052839501?cc=2016195&offset=0&count=100",
+      "results" : 2
+    }
+  },
+  "description" : "#src_1",
+  "sourceDescriptions" : [ {
+    "id" : "src_1",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L29:1052839501?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_2"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Palmares"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L29:1052839501?cc=2016195" ]
+    }
+  }, {
+    "id" : "src_2",
+    "about" : "https://www.familysearch.org/service/cds/recapi/collections/2016195/waypoints",
+    "componentOf" : {
+      "description" : "#src_3"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "coverage" : [ {
+      "spatial" : {
+        "original" : "Brazil, Pernambuco",
+        "description" : "#place_5735"
+      },
+      "temporal" : {
+        "original" : "1804/2016",
+        "formal" : "+1804/+2016"
+      },
+      "recordType" : "http://familysearch.org/types/records/Miscellaneous"
+    }, {
+      "spatial" : {
+        "original" : "Pernambuco, Brazil",
+        "description" : "#place_5735"
+      },
+      "temporal" : {
+        "original" : "1804/2023",
+        "formal" : "+1804/+2023"
+      },
+      "recordType" : "http://gedcomx.org/Vital"
+    }, {
+      "spatial" : {
+        "original" : "Brazil, Pernambuco",
+        "description" : "#place_5735"
+      },
+      "temporal" : {
+        "original" : "1804/2016",
+        "formal" : "+1804/+2016"
+      },
+      "recordType" : "http://familysearch.org/types/records/CivilRegistration"
+    } ],
+    "titles" : [ {
+      "lang" : "pt",
+      "value" : "Brasil, Pernambuco, Registro Civil, 1804-2023"
+    }, {
+      "lang" : "en_US",
+      "value" : "Brazil, Pernambuco, Civil Registration, 1804-2023"
+    }, {
+      "lang" : "zh",
+      "value" : "巴西，伯南布科，公民登記，1804 年 - 2023 年"
+    }, {
+      "lang" : "fr",
+      "value" : "Brésil, registres d’état civil de Pernambuco, 1804-2023"
+    }, {
+      "lang" : "ru",
+      "value" : "Бразилия, Пернамбуку, регистрация актов гражданского состояния, 1804-2023 гг."
+    }, {
+      "lang" : "no",
+      "value" : "Brazil, Pernambuco, Sivil registrering, 1804-2023"
+    }, {
+      "lang" : "es",
+      "value" : "Brasil, Pernambuco, Registro Civil, 1804-2023"
+    }, {
+      "lang" : "mn",
+      "value" : "Бразил, Пернамбуко, Иргэний бүртгэл, 1804-2023"
+    }, {
+      "lang" : "ko",
+      "value" : "브라질, 페르남부쿠, 주민등록, 1804-2023"
+    }, {
+      "lang" : "ja",
+      "value" : "ブラジル、ペルナンブーコ州、民事登録、1804年-2023年"
+    }, {
+      "lang" : "it",
+      "value" : "Brasile, Pernambuco, Registrazione civile, 1804-2023"
+    }, {
+      "lang" : "id",
+      "value" : "Brasil, Pernambuco, Catatan Sipil, 1804-2023"
+    }, {
+      "lang" : "hu",
+      "value" : "Brazília, Pernambuco, Polgári anyakönyvezés, 1804–2023"
+    }, {
+      "lang" : "sk",
+      "value" : "Brazília, Pernambuco, evidencia obyvateľstva, 1804 – 2023"
+    }, {
+      "lang" : "th",
+      "value" : "บราซิล เปร์นัมบูโก ทะเบียนราษฎร ปี 1804-2023"
+    }, {
+      "lang" : "to",
+      "value" : "Palāsila, Pernambuco, Lesisita fakapuleʻanga, 1804-2023"
+    }, {
+      "lang" : "bg",
+      "value" : "Бразилия, Пернамбуко, Гражданска регистрация, 1804-2023"
+    }, {
+      "lang" : "km",
+      "value" : "ប្រេស៊ីល, ពែណាំបូកូ,អត្រានុកូលដ្ឋាន, ឆ្នាំ 1804-2023"
+    }, {
+      "lang" : "pl",
+      "value" : "Brazylia, Pernambuco, rejestracja cywilna, lata 1804-2023"
+    }, {
+      "lang" : "ro",
+      "value" : "Brazilia, Pernambuco, Registrul civil, 1804-2023"
+    }, {
+      "lang" : "sv",
+      "value" : "Brasilien, Pernambuco, Borgerlig registrering, 1804-2023"
+    }, {
+      "lang" : "sm",
+      "value" : "Brazil, Pernambuco, Đăng Ký Hộ Tịch, 1804-2023"
+    }, {
+      "lang" : "vi",
+      "value" : "Brazil, Pernambuco, Đăng Ký Hộ Tịch, 1804-2023"
+    }, {
+      "lang" : "sq",
+      "value" : "Brazil, Pernambuco, Regjistrimi Civil, 1804-2023"
+    }, {
+      "lang" : "de",
+      "value" : "Brasilien, Pernambuco, Zivilstandsregister, 1804-2023"
+    }, {
+      "lang" : "uk",
+      "value" : "Бразилія, Пернамбуку, акти реєстрації цивільного стану, 1804–2023 рр."
+    }, {
+      "lang" : "hr",
+      "value" : "Brazil, Pernambuco, građanska prijava, 1804.-2023."
+    }, {
+      "lang" : "cs",
+      "value" : "Brazílie, Pernambuco, Civilní registrace, 1804-2023"
+    }, {
+      "lang" : "da",
+      "value" : "Brasilien, Pernambuco, borgerlig registrering, 1804-2023"
+    }, {
+      "lang" : "nl",
+      "value" : "Brazilië, Pernambuco, burgerlijke stand, 1804-2023"
+    }, {
+      "lang" : "et",
+      "value" : "Brasiilia, Pernambuco, kodanike registreerimine, 1804–2023"
+    }, {
+      "lang" : "fj",
+      "value" : "Brazil, Pernambuco,Volatudei Vakamatanitu, 1804-2023"
+    }, {
+      "lang" : "fi",
+      "value" : "Brasilia, Pernambuco, väestörekisteri, 1804-2023"
+    }, {
+      "lang" : "tl",
+      "value" : "Brazil, Pernambuco, Pangmamamayang Pagpaparehistro, 1804-2023"
+    }, {
+      "lang" : "mg",
+      "value" : "Brezila, Pernambuco, sora-piankohonana, 1804-2023"
+    }, {
+      "lang" : "ceb",
+      "value" : "Brazil, Pernambuco, Rehistrasyon Sibil, 1804-2023"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/collections/2016195/waypoints" ]
+    }
+  }, {
+    "id" : "src_3",
+    "about" : "https://www.familysearch.org/service/cds/recapi/collections/2016195",
+    "resourceType" : "http://gedcomx.org/Collection",
+    "titles" : [ {
+      "lang" : "pt",
+      "value" : "Brasil, Pernambuco, Registro Civil, 1804-2023"
+    }, {
+      "lang" : "en_US",
+      "value" : "Brazil, Pernambuco, Civil Registration, 1804-2023"
+    }, {
+      "lang" : "zh",
+      "value" : "巴西，伯南布科，公民登記，1804 年 - 2023 年"
+    }, {
+      "lang" : "fr",
+      "value" : "Brésil, registres d’état civil de Pernambuco, 1804-2023"
+    }, {
+      "lang" : "ru",
+      "value" : "Бразилия, Пернамбуку, регистрация актов гражданского состояния, 1804-2023 гг."
+    }, {
+      "lang" : "no",
+      "value" : "Brazil, Pernambuco, Sivil registrering, 1804-2023"
+    }, {
+      "lang" : "es",
+      "value" : "Brasil, Pernambuco, Registro Civil, 1804-2023"
+    }, {
+      "lang" : "mn",
+      "value" : "Бразил, Пернамбуко, Иргэний бүртгэл, 1804-2023"
+    }, {
+      "lang" : "ko",
+      "value" : "브라질, 페르남부쿠, 주민등록, 1804-2023"
+    }, {
+      "lang" : "ja",
+      "value" : "ブラジル、ペルナンブーコ州、民事登録、1804年-2023年"
+    }, {
+      "lang" : "it",
+      "value" : "Brasile, Pernambuco, Registrazione civile, 1804-2023"
+    }, {
+      "lang" : "id",
+      "value" : "Brasil, Pernambuco, Catatan Sipil, 1804-2023"
+    }, {
+      "lang" : "hu",
+      "value" : "Brazília, Pernambuco, Polgári anyakönyvezés, 1804–2023"
+    }, {
+      "lang" : "sk",
+      "value" : "Brazília, Pernambuco, evidencia obyvateľstva, 1804 – 2023"
+    }, {
+      "lang" : "th",
+      "value" : "บราซิล เปร์นัมบูโก ทะเบียนราษฎร ปี 1804-2023"
+    }, {
+      "lang" : "to",
+      "value" : "Palāsila, Pernambuco, Lesisita fakapuleʻanga, 1804-2023"
+    }, {
+      "lang" : "bg",
+      "value" : "Бразилия, Пернамбуко, Гражданска регистрация, 1804-2023"
+    }, {
+      "lang" : "km",
+      "value" : "ប្រេស៊ីល, ពែណាំបូកូ,អត្រានុកូលដ្ឋាន, ឆ្នាំ 1804-2023"
+    }, {
+      "lang" : "pl",
+      "value" : "Brazylia, Pernambuco, rejestracja cywilna, lata 1804-2023"
+    }, {
+      "lang" : "ro",
+      "value" : "Brazilia, Pernambuco, Registrul civil, 1804-2023"
+    }, {
+      "lang" : "sv",
+      "value" : "Brasilien, Pernambuco, Borgerlig registrering, 1804-2023"
+    }, {
+      "lang" : "sm",
+      "value" : "Brazil, Pernambuco, Đăng Ký Hộ Tịch, 1804-2023"
+    }, {
+      "lang" : "vi",
+      "value" : "Brazil, Pernambuco, Đăng Ký Hộ Tịch, 1804-2023"
+    }, {
+      "lang" : "sq",
+      "value" : "Brazil, Pernambuco, Regjistrimi Civil, 1804-2023"
+    }, {
+      "lang" : "de",
+      "value" : "Brasilien, Pernambuco, Zivilstandsregister, 1804-2023"
+    }, {
+      "lang" : "uk",
+      "value" : "Бразилія, Пернамбуку, акти реєстрації цивільного стану, 1804–2023 рр."
+    }, {
+      "lang" : "hr",
+      "value" : "Brazil, Pernambuco, građanska prijava, 1804.-2023."
+    }, {
+      "lang" : "cs",
+      "value" : "Brazílie, Pernambuco, Civilní registrace, 1804-2023"
+    }, {
+      "lang" : "da",
+      "value" : "Brasilien, Pernambuco, borgerlig registrering, 1804-2023"
+    }, {
+      "lang" : "nl",
+      "value" : "Brazilië, Pernambuco, burgerlijke stand, 1804-2023"
+    }, {
+      "lang" : "et",
+      "value" : "Brasiilia, Pernambuco, kodanike registreerimine, 1804–2023"
+    }, {
+      "lang" : "fj",
+      "value" : "Brazil, Pernambuco,Volatudei Vakamatanitu, 1804-2023"
+    }, {
+      "lang" : "fi",
+      "value" : "Brasilia, Pernambuco, väestörekisteri, 1804-2023"
+    }, {
+      "lang" : "tl",
+      "value" : "Brazil, Pernambuco, Pangmamamayang Pagpaparehistro, 1804-2023"
+    }, {
+      "lang" : "mg",
+      "value" : "Brezila, Pernambuco, sora-piankohonana, 1804-2023"
+    }, {
+      "lang" : "ceb",
+      "value" : "Brazil, Pernambuco, Rehistrasyon Sibil, 1804-2023"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/collections/2016195" ]
+    }
+  }, {
+    "id" : "sd_4",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2S:1052839501,1052839502?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Civil Registration Office"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "palmares",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Palmares"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2S:1052839501,1052839502?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_5",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31Z9-JWL:1052839501,1053380901?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Civil Registration Office"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "santo antonio dos palmares",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Santo Antônio dos Palmares"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31Z9-JWL:1052839501,1053380901?cc=2016195" ]
+    }
+  } ],
+  "places" : [ {
+    "id" : "place_5735",
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/platform/places/description/5735" ]
+    }
+  } ]
+}

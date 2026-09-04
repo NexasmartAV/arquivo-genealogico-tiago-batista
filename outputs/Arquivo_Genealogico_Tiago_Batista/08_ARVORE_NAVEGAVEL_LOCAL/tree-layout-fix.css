@@ -1,0 +1,48 @@
+/* Shared readable dimensions; preserve the existing family sections and portraits. */
+.iraci-siblings { grid-column:1/-1; padding:24px 0; margin-top:24px; border-top:1px dashed #bccbb7; }
+.descendant-tree { overflow-x:auto; padding-right:42px; }
+.descendant-tree .desc-level { min-width:0; }
+.descendant-tree .parents-expanded { display:block; width:100%; }
+.descendant-tree .paternal-siblings-row,
+.descendant-tree .maternal-siblings-row,
+.descendant-tree .current-siblings,
+.descendant-tree .newest-families { display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:48px 24px; align-items:start; }
+.descendant-tree .paternal-siblings-row > .desc-couple,
+.descendant-tree .current-siblings > .desc-couple,
+.descendant-tree .newest-families > .desc-couple { grid-column:auto; padding:14px; }
+.descendant-tree .desc-couple,
+.descendant-tree .family-unit { box-sizing:border-box; padding:14px; background:rgba(250,252,247,.97); border:1px solid #d9e2d6; box-shadow:0 4px 12px rgba(47,70,52,.06); }
+.descendant-tree .desc-couple > div:not([class]),
+.descendant-tree .unit-couple { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px; }
+.descendant-tree .desc-couple > div:not([class]) > .branch-person:only-child,
+.descendant-tree .unit-couple > .branch-person:only-child { grid-column:1/-1; width:calc((100% - 12px)/2); justify-self:center; }
+.descendant-tree .branch-person,
+.descendant-tree .current .branch-person,
+.descendant-tree .newest .branch-person { height:150px; max-height:150px; padding:12px 8px; background:#fbfcf8; }
+.descendant-tree .branch-person.report { background:#fff9e9; }
+.descendant-tree .branch-person strong,
+.descendant-tree .current .branch-person strong,
+.descendant-tree .newest .branch-person strong { font:700 .78rem/1.25 Georgia,serif; overflow-wrap:normal; word-break:normal; -webkit-line-clamp:3; }
+.descendant-tree .portrait,
+.descendant-tree .current .portrait,
+.descendant-tree .newest .portrait { width:48px; height:48px; flex-basis:48px; margin-bottom:10px; }
+.descendant-tree .couple-label { min-height:24px; margin-bottom:12px; font-size:.62rem; line-height:1.4; }
+.descendant-tree .family-with-toggle { padding-bottom:14px; }
+.descendant-tree .family-expand,
+.descendant-tree .unit-toggle { position:relative; left:auto; bottom:auto; transform:none; display:block; width:max-content; max-width:100%; min-width:0; margin:14px auto 0; padding:9px 14px; font:700 .68rem/1.25 system-ui,sans-serif; white-space:normal; }
+.descendant-tree .branch-anchor { margin:0 auto 32px; }
+.descendant-tree .branch-anchor:after { display:none; }
+.descendant-tree .maternal-sibling-drawer { margin-top:64px; padding-top:24px; border-top:1px dashed #bccbb7; }
+.descendant-tree .maternal-siblings-row > .family-unit,
+.descendant-tree .maternal-siblings-row > .desc-couple { width:100%; max-width:none; margin:0; }
+.descendant-tree .maternal-siblings-row .unit-children { margin-top:38px; }
+.descendant-tree .desc-generation { padding-bottom:64px; }
+.descendant-tree .kinship-lines path { stroke-width:1.6; stroke:#7b917a; }
+.descendant-tree .tatiana-family > div { grid-template-columns:repeat(2,minmax(0,1fr))!important; }
+.descendant-tree .tatiana-family .young-couple { grid-column:1/-1; }
+.descendant-tree .branch-placeholder { min-height:70px; box-shadow:none; opacity:.65; }
+@media(max-width:760px) {
+ .descendant-tree .desc-generation { min-width:320px; }
+ .descendant-tree .paternal-siblings-row,.descendant-tree .maternal-siblings-row,.descendant-tree .current-siblings,.descendant-tree .newest-families { grid-template-columns:minmax(280px,1fr); }
+ .descendant-tree .paternal-siblings-row > .desc-couple { grid-column:auto; }
+}

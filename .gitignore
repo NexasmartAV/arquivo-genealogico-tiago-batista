@@ -1,0 +1,6 @@
+# Artefatos temporários de automação e verificação local
+.playwright-cli/
+
+# Saídas temporárias de testes
+work/test-results/
+work/*.log

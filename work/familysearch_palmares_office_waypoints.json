@@ -1,0 +1,2213 @@
+{
+  "links" : {
+    "next" : {
+      "href" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2S:1052839501,1052839502?cc=2016195&offset=100&count=100"
+    },
+    "self" : {
+      "href" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2S:1052839501,1052839502?cc=2016195&offset=0&count=100",
+      "results" : 142
+    }
+  },
+  "description" : "#src_1",
+  "sourceDescriptions" : [ {
+    "id" : "src_1",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2S:1052839501,1052839502?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_2"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Palmares"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2S:1052839501,1052839502?cc=2016195" ]
+    }
+  }, {
+    "id" : "src_2",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L29:1052839501?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_3"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Palmares"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L29:1052839501?cc=2016195" ]
+    }
+  }, {
+    "id" : "src_3",
+    "about" : "https://www.familysearch.org/service/cds/recapi/collections/2016195/waypoints",
+    "componentOf" : {
+      "description" : "#src_4"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "coverage" : [ {
+      "spatial" : {
+        "original" : "Brazil, Pernambuco",
+        "description" : "#place_5735"
+      },
+      "temporal" : {
+        "original" : "1804/2016",
+        "formal" : "+1804/+2016"
+      },
+      "recordType" : "http://familysearch.org/types/records/Miscellaneous"
+    }, {
+      "spatial" : {
+        "original" : "Pernambuco, Brazil",
+        "description" : "#place_5735"
+      },
+      "temporal" : {
+        "original" : "1804/2023",
+        "formal" : "+1804/+2023"
+      },
+      "recordType" : "http://gedcomx.org/Vital"
+    }, {
+      "spatial" : {
+        "original" : "Brazil, Pernambuco",
+        "description" : "#place_5735"
+      },
+      "temporal" : {
+        "original" : "1804/2016",
+        "formal" : "+1804/+2016"
+      },
+      "recordType" : "http://familysearch.org/types/records/CivilRegistration"
+    } ],
+    "titles" : [ {
+      "lang" : "pt",
+      "value" : "Brasil, Pernambuco, Registro Civil, 1804-2023"
+    }, {
+      "lang" : "en_US",
+      "value" : "Brazil, Pernambuco, Civil Registration, 1804-2023"
+    }, {
+      "lang" : "zh",
+      "value" : "巴西，伯南布科，公民登記，1804 年 - 2023 年"
+    }, {
+      "lang" : "fr",
+      "value" : "Brésil, registres d’état civil de Pernambuco, 1804-2023"
+    }, {
+      "lang" : "ru",
+      "value" : "Бразилия, Пернамбуку, регистрация актов гражданского состояния, 1804-2023 гг."
+    }, {
+      "lang" : "no",
+      "value" : "Brazil, Pernambuco, Sivil registrering, 1804-2023"
+    }, {
+      "lang" : "es",
+      "value" : "Brasil, Pernambuco, Registro Civil, 1804-2023"
+    }, {
+      "lang" : "mn",
+      "value" : "Бразил, Пернамбуко, Иргэний бүртгэл, 1804-2023"
+    }, {
+      "lang" : "ko",
+      "value" : "브라질, 페르남부쿠, 주민등록, 1804-2023"
+    }, {
+      "lang" : "ja",
+      "value" : "ブラジル、ペルナンブーコ州、民事登録、1804年-2023年"
+    }, {
+      "lang" : "it",
+      "value" : "Brasile, Pernambuco, Registrazione civile, 1804-2023"
+    }, {
+      "lang" : "id",
+      "value" : "Brasil, Pernambuco, Catatan Sipil, 1804-2023"
+    }, {
+      "lang" : "hu",
+      "value" : "Brazília, Pernambuco, Polgári anyakönyvezés, 1804–2023"
+    }, {
+      "lang" : "sk",
+      "value" : "Brazília, Pernambuco, evidencia obyvateľstva, 1804 – 2023"
+    }, {
+      "lang" : "th",
+      "value" : "บราซิล เปร์นัมบูโก ทะเบียนราษฎร ปี 1804-2023"
+    }, {
+      "lang" : "to",
+      "value" : "Palāsila, Pernambuco, Lesisita fakapuleʻanga, 1804-2023"
+    }, {
+      "lang" : "bg",
+      "value" : "Бразилия, Пернамбуко, Гражданска регистрация, 1804-2023"
+    }, {
+      "lang" : "km",
+      "value" : "ប្រេស៊ីល, ពែណាំបូកូ,អត្រានុកូលដ្ឋាន, ឆ្នាំ 1804-2023"
+    }, {
+      "lang" : "pl",
+      "value" : "Brazylia, Pernambuco, rejestracja cywilna, lata 1804-2023"
+    }, {
+      "lang" : "ro",
+      "value" : "Brazilia, Pernambuco, Registrul civil, 1804-2023"
+    }, {
+      "lang" : "sv",
+      "value" : "Brasilien, Pernambuco, Borgerlig registrering, 1804-2023"
+    }, {
+      "lang" : "sm",
+      "value" : "Brazil, Pernambuco, Đăng Ký Hộ Tịch, 1804-2023"
+    }, {
+      "lang" : "vi",
+      "value" : "Brazil, Pernambuco, Đăng Ký Hộ Tịch, 1804-2023"
+    }, {
+      "lang" : "sq",
+      "value" : "Brazil, Pernambuco, Regjistrimi Civil, 1804-2023"
+    }, {
+      "lang" : "de",
+      "value" : "Brasilien, Pernambuco, Zivilstandsregister, 1804-2023"
+    }, {
+      "lang" : "uk",
+      "value" : "Бразилія, Пернамбуку, акти реєстрації цивільного стану, 1804–2023 рр."
+    }, {
+      "lang" : "hr",
+      "value" : "Brazil, Pernambuco, građanska prijava, 1804.-2023."
+    }, {
+      "lang" : "cs",
+      "value" : "Brazílie, Pernambuco, Civilní registrace, 1804-2023"
+    }, {
+      "lang" : "da",
+      "value" : "Brasilien, Pernambuco, borgerlig registrering, 1804-2023"
+    }, {
+      "lang" : "nl",
+      "value" : "Brazilië, Pernambuco, burgerlijke stand, 1804-2023"
+    }, {
+      "lang" : "et",
+      "value" : "Brasiilia, Pernambuco, kodanike registreerimine, 1804–2023"
+    }, {
+      "lang" : "fj",
+      "value" : "Brazil, Pernambuco,Volatudei Vakamatanitu, 1804-2023"
+    }, {
+      "lang" : "fi",
+      "value" : "Brasilia, Pernambuco, väestörekisteri, 1804-2023"
+    }, {
+      "lang" : "tl",
+      "value" : "Brazil, Pernambuco, Pangmamamayang Pagpaparehistro, 1804-2023"
+    }, {
+      "lang" : "mg",
+      "value" : "Brezila, Pernambuco, sora-piankohonana, 1804-2023"
+    }, {
+      "lang" : "ceb",
+      "value" : "Brazil, Pernambuco, Rehistrasyon Sibil, 1804-2023"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/collections/2016195/waypoints" ]
+    }
+  }, {
+    "id" : "src_4",
+    "about" : "https://www.familysearch.org/service/cds/recapi/collections/2016195",
+    "resourceType" : "http://gedcomx.org/Collection",
+    "titles" : [ {
+      "lang" : "pt",
+      "value" : "Brasil, Pernambuco, Registro Civil, 1804-2023"
+    }, {
+      "lang" : "en_US",
+      "value" : "Brazil, Pernambuco, Civil Registration, 1804-2023"
+    }, {
+      "lang" : "zh",
+      "value" : "巴西，伯南布科，公民登記，1804 年 - 2023 年"
+    }, {
+      "lang" : "fr",
+      "value" : "Brésil, registres d’état civil de Pernambuco, 1804-2023"
+    }, {
+      "lang" : "ru",
+      "value" : "Бразилия, Пернамбуку, регистрация актов гражданского состояния, 1804-2023 гг."
+    }, {
+      "lang" : "no",
+      "value" : "Brazil, Pernambuco, Sivil registrering, 1804-2023"
+    }, {
+      "lang" : "es",
+      "value" : "Brasil, Pernambuco, Registro Civil, 1804-2023"
+    }, {
+      "lang" : "mn",
+      "value" : "Бразил, Пернамбуко, Иргэний бүртгэл, 1804-2023"
+    }, {
+      "lang" : "ko",
+      "value" : "브라질, 페르남부쿠, 주민등록, 1804-2023"
+    }, {
+      "lang" : "ja",
+      "value" : "ブラジル、ペルナンブーコ州、民事登録、1804年-2023年"
+    }, {
+      "lang" : "it",
+      "value" : "Brasile, Pernambuco, Registrazione civile, 1804-2023"
+    }, {
+      "lang" : "id",
+      "value" : "Brasil, Pernambuco, Catatan Sipil, 1804-2023"
+    }, {
+      "lang" : "hu",
+      "value" : "Brazília, Pernambuco, Polgári anyakönyvezés, 1804–2023"
+    }, {
+      "lang" : "sk",
+      "value" : "Brazília, Pernambuco, evidencia obyvateľstva, 1804 – 2023"
+    }, {
+      "lang" : "th",
+      "value" : "บราซิล เปร์นัมบูโก ทะเบียนราษฎร ปี 1804-2023"
+    }, {
+      "lang" : "to",
+      "value" : "Palāsila, Pernambuco, Lesisita fakapuleʻanga, 1804-2023"
+    }, {
+      "lang" : "bg",
+      "value" : "Бразилия, Пернамбуко, Гражданска регистрация, 1804-2023"
+    }, {
+      "lang" : "km",
+      "value" : "ប្រេស៊ីល, ពែណាំបូកូ,អត្រានុកូលដ្ឋាន, ឆ្នាំ 1804-2023"
+    }, {
+      "lang" : "pl",
+      "value" : "Brazylia, Pernambuco, rejestracja cywilna, lata 1804-2023"
+    }, {
+      "lang" : "ro",
+      "value" : "Brazilia, Pernambuco, Registrul civil, 1804-2023"
+    }, {
+      "lang" : "sv",
+      "value" : "Brasilien, Pernambuco, Borgerlig registrering, 1804-2023"
+    }, {
+      "lang" : "sm",
+      "value" : "Brazil, Pernambuco, Đăng Ký Hộ Tịch, 1804-2023"
+    }, {
+      "lang" : "vi",
+      "value" : "Brazil, Pernambuco, Đăng Ký Hộ Tịch, 1804-2023"
+    }, {
+      "lang" : "sq",
+      "value" : "Brazil, Pernambuco, Regjistrimi Civil, 1804-2023"
+    }, {
+      "lang" : "de",
+      "value" : "Brasilien, Pernambuco, Zivilstandsregister, 1804-2023"
+    }, {
+      "lang" : "uk",
+      "value" : "Бразилія, Пернамбуку, акти реєстрації цивільного стану, 1804–2023 рр."
+    }, {
+      "lang" : "hr",
+      "value" : "Brazil, Pernambuco, građanska prijava, 1804.-2023."
+    }, {
+      "lang" : "cs",
+      "value" : "Brazílie, Pernambuco, Civilní registrace, 1804-2023"
+    }, {
+      "lang" : "da",
+      "value" : "Brasilien, Pernambuco, borgerlig registrering, 1804-2023"
+    }, {
+      "lang" : "nl",
+      "value" : "Brazilië, Pernambuco, burgerlijke stand, 1804-2023"
+    }, {
+      "lang" : "et",
+      "value" : "Brasiilia, Pernambuco, kodanike registreerimine, 1804–2023"
+    }, {
+      "lang" : "fj",
+      "value" : "Brazil, Pernambuco,Volatudei Vakamatanitu, 1804-2023"
+    }, {
+      "lang" : "fi",
+      "value" : "Brasilia, Pernambuco, väestörekisteri, 1804-2023"
+    }, {
+      "lang" : "tl",
+      "value" : "Brazil, Pernambuco, Pangmamamayang Pagpaparehistro, 1804-2023"
+    }, {
+      "lang" : "mg",
+      "value" : "Brezila, Pernambuco, sora-piankohonana, 1804-2023"
+    }, {
+      "lang" : "ceb",
+      "value" : "Brazil, Pernambuco, Rehistrasyon Sibil, 1804-2023"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/collections/2016195" ]
+    }
+  }, {
+    "id" : "sd_5",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-Y47:1052839501,1052839502,1052942901?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "indice de matrimonios 0000000000001908-0000000000001930",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Índice de Matrimônios 1908-1930"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-Y47:1052839501,1052839502,1052942901?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_6",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CG-SP8:1052839501,1052839502,1053284101?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "indice de matrimonios 0000000000001949, set-0000000000001951, jan, vol. 0000000000000021",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Índice de Matrimônios 1949, Set-1951, Jan, Vol. 21"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CG-SP8:1052839501,1052839502,1053284101?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_7",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C66:1052839501,1052839502,1052899601?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "indice de nascimentos 0000000000001897, set-0000000000001930, out",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Índice de Nascimentos 1897, Set-1930, Out"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C66:1052839501,1052839502,1052899601?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_8",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6P:1052839501,1052839502,1052874801?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "indice de nascimentos 0000000000001916, dez-0000000000001918, dez, vol. 0000000000000008",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Índice de Nascimentos 1916, Dez-1918, Dez, Vol. 8"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6P:1052839501,1052839502,1052874801?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_9",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6G:1052839501,1052839502,1052898301?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "indice de nascimentos 0000000000001929, fev-0000000000001930, out",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Índice de Nascimentos 1929, Fev-1930, Out"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6G:1052839501,1052839502,1052898301?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_10",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6YS:1052839501,1052839502,1052994101?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "indice de obitos 0000000000001917, maio-0000000000001918, ago, vol. 0000000000000013",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Índice de Óbitos 1917, Maio-1918, Ago, Vol. 13"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6YS:1052839501,1052839502,1052994101?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_11",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31C7-W38:1052839501,1052839502,1053030301?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "indice de obitos 0000000000001929, jun-0000000000001931, fev, vol. 0000000000000022",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Índice de Óbitos 1929, Jun-1931, Fev, Vol. 22"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31C7-W38:1052839501,1052839502,1053030301?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_12",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-YWL:1052839501,1052839502,1053074001?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "indice de obitos 0000000000001947, out-0000000000001948, jul, vol. 0000000000000041",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Índice de Óbitos 1947, Out-1948, Jul, Vol. 41"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-YWL:1052839501,1052839502,1053074001?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_13",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CC-N3D:1052839501,1052839502,1053128301?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "indice de obitos 0000000000001975, dez-0000000000001977, fev",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Índice de Óbitos 1975, Dez-1977, Fev"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CC-N3D:1052839501,1052839502,1053128301?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_14",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CC-VZ9:1052839501,1052839502,1053137701?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "indice de obitos 0000000000001977, fev-0000000000001978, abr",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Índice de Óbitos 1977, Fev-1978, Abr"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CC-VZ9:1052839501,1052839502,1053137701?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_15",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CC-N36:1052839501,1052839502,1053145801?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "indice de obitos 0000000000001978, abr-0000000000001979, jun",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Índice de Óbitos 1978, Abr-1979, Jun"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CC-N36:1052839501,1052839502,1053145801?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_16",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CC-JWG:1052839501,1052839502,1053154001?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "indice de obitos 0000000000001979, jun-0000000000001980, set, vol. 0000000000000004",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Índice de Óbitos 1979, Jun-1980, Set, Vol. 4"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CC-JWG:1052839501,1052839502,1053154001?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_17",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CC-N3F:1052839501,1052839502,1053162201?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "indice de obitos 0000000000001980, set-0000000000001981, dez, vol. 0000000000000005",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Índice de Óbitos 1980, Set-1981, Dez, Vol. 5"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CC-N3F:1052839501,1052839502,1053162201?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_18",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CC-JWL:1052839501,1052839502,1053167301?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "indice de obitos 0000000000001981, dez-0000000000001983, fev, vol. 0000000000000006",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Índice de Óbitos 1981, Dez-1983, Fev, Vol. 6"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CC-JWL:1052839501,1052839502,1053167301?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_19",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CT-K6J:1052839501,1052839502,1053180501?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "indice de obitos 0000000000001984, maio-0000000000001985, jul, vol. 0000000000000008",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Índice de Óbitos 1984, Maio-1985, Jul, Vol. 8"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CT-K6J:1052839501,1052839502,1053180501?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_20",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CT-2NG:1052839501,1052839502,1053205901?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "indice de obitos 0000000000001989, jun-0000000000001990, nov, vol. 0000000000000012",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Índice de Óbitos 1989, Jun-1990, Nov, Vol. 12"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CT-2NG:1052839501,1052839502,1053205901?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_21",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6L:1052839501,1052839502,1052907301?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001889, jan-0000000000001897, jul, vol. 0000000000000001",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1889, Jan-1897, Jul, Vol. 1"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6L:1052839501,1052839502,1052907301?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_22",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6N:1052839501,1052839502,1052913201?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001897, jul-0000000000001908, jan",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1897, Jul-1908, Jan"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6N:1052839501,1052839502,1052913201?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_23",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-ZNL:1052839501,1052839502,1052916001?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001908, fev-0000000000001911, nov, vol. 0000000000000003",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1908, Fev-1911, Nov, Vol. 3"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-ZNL:1052839501,1052839502,1052916001?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_24",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-Y4Q:1052839501,1052839502,1052919201?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001911, dez-0000000000001913, out",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1911, Dez-1913, Out"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-Y4Q:1052839501,1052839502,1052919201?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_25",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-YW5:1052839501,1052839502,1052923301?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001913, out-0000000000001916, set, vol. 0000000000000005",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1913, Out-1916, Set, Vol. 5"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-YW5:1052839501,1052839502,1052923301?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_26",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-YWT:1052839501,1052839502,1052926301?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001916, out-0000000000001919, set",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1916, Out-1919, Set"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-YWT:1052839501,1052839502,1052926301?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_27",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-YWR:1052839501,1052839502,1052929901?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001919, set-0000000000001922, set, vol. 0000000000000007",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1919, Set-1922, Set, Vol. 7"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-YWR:1052839501,1052839502,1052929901?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_28",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-Y4M:1052839501,1052839502,1052932001?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001922, set-0000000000001925, jul",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1922, Set-1925, Jul"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-Y4M:1052839501,1052839502,1052932001?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_29",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-YWG:1052839501,1052839502,1052935901?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001925, jul-0000000000001928, out",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1925, Jul-1928, Out"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-YWG:1052839501,1052839502,1052935901?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_30",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-YWY:1052839501,1052839502,1052939901?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001928, out-0000000000001932, mar",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1928, Out-1932, Mar"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-YWY:1052839501,1052839502,1052939901?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_31",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-162:1052839501,1052839502,1053246801?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001932, 0000-03-0000-09",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1932, Mar-Set"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-162:1052839501,1052839502,1053246801?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_32",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16Y:1052839501,1052839502,1053249501?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001932, set-0000000000001934, maio",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1932, Set-1934, Maio"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16Y:1052839501,1052839502,1053249501?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_33",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-1X9:1052839501,1052839502,1053253701?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001934, maio-0000000000001938, fev, vol. 0000000000000012",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1934, Maio-1938, Fev, Vol. 12"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-1X9:1052839501,1052839502,1053253701?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_34",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16P:1052839501,1052839502,1053256401?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001938, mar-0000000000001940, out, vol. 0000000000000013",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1938, Mar-1940, Out, Vol. 13"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16P:1052839501,1052839502,1053256401?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_35",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16L:1052839501,1052839502,1053258801?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001940, out-0000000000001942, maio, vol. 0000000000000014",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1940, Out-1942, Maio, Vol. 14"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16L:1052839501,1052839502,1053258801?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_36",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16K:1052839501,1052839502,1053261601?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001942, maio-0000000000001943, nov, vol. 0000000000000015",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1942, Maio-1943, Nov, Vol. 15"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16K:1052839501,1052839502,1053261601?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_37",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16V:1052839501,1052839502,1053265301?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001943, dez-0000000000001945, fev, vol. 0000000000000016",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1943, Dez-1945, Fev, Vol. 16"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16V:1052839501,1052839502,1053265301?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_38",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16J:1052839501,1052839502,1053269701?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001945, fev-0000000000001946, fev, vol. 0000000000000017",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1945, Fev-1946, Fev, Vol. 17"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16J:1052839501,1052839502,1053269701?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_39",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16B:1052839501,1052839502,1053273201?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001946, 0000-02-0000-12, vol. 0000000000000018",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1946, Fev-Dez, Vol. 18"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16B:1052839501,1052839502,1053273201?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_40",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-161:1052839501,1052839502,1053276401?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001946, dez-0000000000001947, set, vol. 0000000000000019",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1946, Dez-1947, Set, Vol. 19"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-161:1052839501,1052839502,1053276401?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_41",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16T:1052839501,1052839502,1053281201?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001947, set-0000000000001949, set, vol. 0000000000000020",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1947, Set-1949, Set, Vol. 20"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16T:1052839501,1052839502,1053281201?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_42",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16F:1052839501,1052839502,1053288101?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "matrimonios 0000000000001949, set-0000000000001951, jan, vol. 0000000000000021",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Matrimônios 1949, Set-1951, Jan, Vol. 21"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16F:1052839501,1052839502,1053288101?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_43",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H5-DPN:1052839501,1052839502,1052839503?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "nascimentos 0000000000001889, jan-0000000000001891, abr",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Nascimentos 1889, Jan-1891, Abr"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H5-DPN:1052839501,1052839502,1052839503?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_44",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H5-DPK:1052839501,1052839502,1052848301?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "nascimentos 0000000000001891, maio-0000000000001892, jul",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Nascimentos 1891, Maio-1892, Jul"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H5-DPK:1052839501,1052839502,1052848301?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_45",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H5-DPF:1052839501,1052839502,1052851701?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "nascimentos 0000000000001892, out-0000000000001897, set, vol. 0000000000000003",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Nascimentos 1892, Out-1897, Set, Vol. 3"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H5-DPF:1052839501,1052839502,1052851701?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_46",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H5-DPY:1052839501,1052839502,1052854201?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "nascimentos 0000000000001897, set-0000000000001900, nov, vol. 0000000000000004",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Nascimentos 1897, Set-1900, Nov, Vol. 4"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H5-DPY:1052839501,1052839502,1052854201?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_47",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H5-DP8:1052839501,1052839502,1052857401?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "nascimentos 0000000000001900, dez-0000000000001908, out",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Nascimentos 1900, Dez-1908, Out"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H5-DP8:1052839501,1052839502,1052857401?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_48",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-ZNP:1052839501,1052839502,1052860501?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "nascimentos 0000000000001908, ago-0000000000001911, fev",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Nascimentos 1908, Ago-1911, Fev"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-ZNP:1052839501,1052839502,1052860501?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_49",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6D:1052839501,1052839502,1052864901?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "nascimentos 0000000000001911, fev-0000000000001913, dez",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Nascimentos 1911, Fev-1913, Dez"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6D:1052839501,1052839502,1052864901?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_50",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6X:1052839501,1052839502,1052868701?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "nascimentos 0000000000001914, jan-0000000000001916, dez",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Nascimentos 1914, Jan-1916, Dez"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6X:1052839501,1052839502,1052868701?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_51",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C68:1052839501,1052839502,1052871901?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "nascimentos 0000000000001916, dez-0000000000001918, dez, vol. 0000000000000008",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Nascimentos 1916, Dez-1918, Dez, Vol. 8"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C68:1052839501,1052839502,1052871901?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_52",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6K:1052839501,1052839502,1052878101?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "nascimentos 0000000000001919, jan-0000000000001921, ago, vol. 0000000000000009",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Nascimentos 1919, Jan-1921, Ago, Vol. 9"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6K:1052839501,1052839502,1052878101?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_53",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-ZNG:1052839501,1052839502,1052882801?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "nascimentos 0000000000001921, ago-0000000000001924, maio",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Nascimentos 1921, Ago-1924, Maio"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-ZNG:1052839501,1052839502,1052882801?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_54",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6J:1052839501,1052839502,1052885701?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "nascimentos 0000000000001924, set-0000000000001927, abr",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Nascimentos 1924, Set-1927, Abr"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6J:1052839501,1052839502,1052885701?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_55",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C62:1052839501,1052839502,1052889401?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "nascimentos 0000000000001927, abr-0000000000001929, fev",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Nascimentos 1927, Abr-1929, Fev"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C62:1052839501,1052839502,1052889401?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_56",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6F:1052839501,1052839502,1052895401?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "nascimentos 0000000000001929, fev-0000000000001930, out",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Nascimentos 1929, Fev-1930, Out"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6F:1052839501,1052839502,1052895401?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_57",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6V:1052839501,1052839502,1052903801?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "nascimentos 0000000000001930, set-0000000000001932, jun",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Nascimentos 1930, Set-1932, Jun"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CY-C6V:1052839501,1052839502,1052903801?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_58",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-YWB:1052839501,1052839502,1052946601?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001889, jan-0000000000001892, set",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1889, Jan-1892, Set"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-YWB:1052839501,1052839502,1052946601?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_59",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-YWP:1052839501,1052839502,1052950801?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001892, out-0000000000001896, fev, vol. 0000000000000002",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1892, Out-1896, Fev, Vol. 2"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-YWP:1052839501,1052839502,1052950801?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_60",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-YW1:1052839501,1052839502,1052954701?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001896, fev-0000000000001900, fev, vol. 0000000000000003",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1896, Fev-1900, Fev, Vol. 3"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-YW1:1052839501,1052839502,1052954701?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_61",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-Y43:1052839501,1052839502,1052958401?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001900, 0000-02-0000-12, vol. 0000000000000004",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1900, Fev-Dez, Vol. 4"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-Y43:1052839501,1052839502,1052958401?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_62",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-YWL:1052839501,1052839502,1052962001?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001900, dez-0000000000001904, jul, vol. 0000000000000005",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1900, Dez-1904, Jul, Vol. 5"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-YWL:1052839501,1052839502,1052962001?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_63",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-Y4S:1052839501,1052839502,1052967001?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001904, jul-0000000000001906, dez, vol. 0000000000000006",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1904, Jul-1906, Dez, Vol. 6"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-Y4S:1052839501,1052839502,1052967001?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_64",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-Y49:1052839501,1052839502,1052970701?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001906, dez-0000000000001911, fev, vol. 0000000000000007",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1906, Dez-1911, Fev, Vol. 7"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31H1-Y49:1052839501,1052839502,1052970701?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_65",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6TR:1052839501,1052839502,1052973701?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001911, fev-0000000000001912, maio, vol. 0000000000000008",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1911, Fev-1912, Maio, Vol. 8"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6TR:1052839501,1052839502,1052973701?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_66",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6YM:1052839501,1052839502,1052978901?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001912, maio-0000000000001913, jul, vol. 0000000000000009",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1912, Maio-1913, Jul, Vol. 9"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6YM:1052839501,1052839502,1052978901?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_67",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6T5:1052839501,1052839502,1052981301?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001913, jul-0000000000001914, ago, vol. 0000000000000010",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1913, Jul-1914, Ago, Vol. 10"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6T5:1052839501,1052839502,1052981301?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_68",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6TT:1052839501,1052839502,1052984701?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001914, ago-0000000000001915, nov, vol. 0000000000000011",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1914, Ago-1915, Nov, Vol. 11"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6TT:1052839501,1052839502,1052984701?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_69",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6TG:1052839501,1052839502,1052988201?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001915, nov-0000000000001917, maio, vol. 0000000000000012",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1915, Nov-1917, Maio, Vol. 12"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6TG:1052839501,1052839502,1052988201?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_70",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6Y9:1052839501,1052839502,1052991401?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001917, maio-0000000000001918, ago, vol. 0000000000000013",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1917, Maio-1918, Ago, Vol. 13"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6Y9:1052839501,1052839502,1052991401?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_71",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6TL:1052839501,1052839502,1052998301?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001918, ago-0000000000001919, jul, vol. 0000000000000014",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1918, Ago-1919, Jul, Vol. 14"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6TL:1052839501,1052839502,1052998301?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_72",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6T1:1052839501,1052839502,1053002801?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001919, jul-0000000000001920, ago, vol. 0000000000000015",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1919, Jul-1920, Ago, Vol. 15"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6T1:1052839501,1052839502,1053002801?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_73",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6TB:1052839501,1052839502,1053009301?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001920, ago-0000000000001922, fev, vol. 0000000000000016",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1920, Ago-1922, Fev, Vol. 16"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6TB:1052839501,1052839502,1053009301?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_74",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6TP:1052839501,1052839502,1053013701?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001922, fev-0000000000001923, maio, vol. 0000000000000017",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1922, Fev-1923, Maio, Vol. 17"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6TP:1052839501,1052839502,1053013701?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_75",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6TY:1052839501,1052839502,1053016701?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001923, maio-0000000000001924, dez, vol. 0000000000000018",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1923, Maio-1924, Dez, Vol. 18"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-6TY:1052839501,1052839502,1053016701?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_76",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-N38:1052839501,1052839502,1053020701?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001926, abr-0000000000001927, dez, vol. 0000000000000020",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1926, Abr-1927, Dez, Vol. 20"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-N38:1052839501,1052839502,1053020701?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_77",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-N3D:1052839501,1052839502,1053024601?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001927, dez-0000000000001929, fev, vol. 0000000000000021",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1927, Dez-1929, Fev, Vol. 21"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HP-N3D:1052839501,1052839502,1053024601?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_78",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31C7-7M7:1052839501,1052839502,1053027501?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001929, 0000-02-0000-06",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1929, Fev-Jun"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31C7-7M7:1052839501,1052839502,1053027501?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_79",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31C7-7MW:1052839501,1052839502,1053035801?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001929, jun-0000000000001931, fev, vol. 0000000000000022",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1929, Jun-1931, Fev, Vol. 22"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31C7-7MW:1052839501,1052839502,1053035801?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_80",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31C7-7MF:1052839501,1052839502,1053040901?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001931, fev-0000000000001932, nov, vol. 0000000000000023",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1931, Fev-1932, Nov, Vol. 23"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31C7-7MF:1052839501,1052839502,1053040901?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_81",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-168:1052839501,1052839502,1053292101?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001932, nov-0000000000001933, jun, vol. 0000000000000024",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1932, Nov-1933, Jun, Vol. 24"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-168:1052839501,1052839502,1053292101?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_82",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-166:1052839501,1052839502,1053295801?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001933, jun-0000000000001934, maio, vol. 0000000000000025",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1933, Jun-1934, Maio, Vol. 25"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-166:1052839501,1052839502,1053295801?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_83",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-1XM:1052839501,1052839502,1053299601?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001934, maio-0000000000001935, mar, vol. 0000000000000026",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1934, Maio-1935, Mar, Vol. 26"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-1XM:1052839501,1052839502,1053299601?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_84",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16D:1052839501,1052839502,1053302301?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001935, mar-0000000000001936, jan, vol. 0000000000000027",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1935, Mar-1936, Jan, Vol. 27"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16D:1052839501,1052839502,1053302301?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_85",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16N:1052839501,1052839502,1053306001?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001936, 0000-01-0000-08, vol. 0000000000000028",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1936, Jan-Ago, Vol. 28"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16N:1052839501,1052839502,1053306001?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_86",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-165:1052839501,1052839502,1053309801?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001936, ago-0000000000001937, maio, vol. 0000000000000029",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1936, Ago-1937, Maio, Vol. 29"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-165:1052839501,1052839502,1053309801?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_87",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16R:1052839501,1052839502,1053313901?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001937, maio-0000000000001938, abr, vol. 0000000000000030",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1937, Maio-1938, Abr, Vol. 30"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16R:1052839501,1052839502,1053313901?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_88",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16G:1052839501,1052839502,1053317501?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001938, abr-0000000000001939, mar, vol. 0000000000000031",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1938, Abr-1939, Mar, Vol. 31"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16G:1052839501,1052839502,1053317501?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_89",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16X:1052839501,1052839502,1053321801?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001939, mar-0000000000001940, mar, vol. 0000000000000032",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1939, Mar-1940, Mar, Vol. 32"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31CL-16X:1052839501,1052839502,1053321801?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_90",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-GP8:1052839501,1052839502,1053045501?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001940, mar-0000000000001941, maio, vol. 0000000000000033",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1940, Mar-1941, Maio, Vol. 33"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-GP8:1052839501,1052839502,1053045501?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_91",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2D:1052839501,1052839502,1053049301?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001941, maio-0000000000001942, out, vol. 0000000000000034",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1941, Maio-1942, Out, Vol. 34"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2D:1052839501,1052839502,1053049301?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_92",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2H:1052839501,1052839502,1053053001?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001942, out-0000000000001944, jan, vol. 0000000000000035",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1942, Out-1944, Jan, Vol. 35"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2H:1052839501,1052839502,1053053001?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_93",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2W:1052839501,1052839502,1053056101?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001944, jan-0000000000001945, jan, vol. 0000000000000036",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1944, Jan-1945, Jan, Vol. 36"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2W:1052839501,1052839502,1053056101?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_94",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L27:1052839501,1052839502,1053059801?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001945, 0000-01-0000-05o, vol. 0000000000000037",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1945, Jan-Maio, Vol. 37"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L27:1052839501,1052839502,1053059801?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_95",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-GPD:1052839501,1052839502,1053064101?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001945, 0000-06-0000-10, vol. 0000000000000038",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1945, Jun-Out, Vol. 38"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-GPD:1052839501,1052839502,1053064101?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_96",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2K:1052839501,1052839502,1053067801?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001945, out-0000000000001946, nov, vol. 0000000000000039",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1945, Out-1946, Nov, Vol. 39"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2K:1052839501,1052839502,1053067801?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_97",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L28:1052839501,1052839502,1053070701?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001946, nov-0000000000001947, out, vol. 0000000000000040",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1946, Nov-1947, Out, Vol. 40"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L28:1052839501,1052839502,1053070701?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_98",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2V:1052839501,1052839502,1053075801?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001947, out-0000000000001948, jul, vol. 0000000000000041",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1947, Out-1948, Jul, Vol. 41"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2V:1052839501,1052839502,1053075801?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_99",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2X:1052839501,1052839502,1053078301?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001948, jul-0000000000001949, maio, vol. 0000000000000042",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1948, Jul-1949, Maio, Vol. 42"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2X:1052839501,1052839502,1053078301?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_100",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-GP6:1052839501,1052839502,1053081201?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001949, 0000-05-0000-11, vol. 0000000000000043",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1949, Maio-Nov, Vol. 43"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-GP6:1052839501,1052839502,1053081201?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_101",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2Z:1052839501,1052839502,1053085401?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001949, nov-0000000000001951, fev, vol. 0000000000000044",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1949, Nov-1951, Fev, Vol. 44"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2Z:1052839501,1052839502,1053085401?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_102",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L24:1052839501,1052839502,1053089801?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001951, 0000-02-0000-12, vol. 0000000000000045",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1951, Fev-Dez, Vol. 45"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L24:1052839501,1052839502,1053089801?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_103",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2Q:1052839501,1052839502,1053093301?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001951, dez-0000000000001953, fev, vol. 0000000000000046",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1951, Dez-1953, Fev, Vol. 46"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2Q:1052839501,1052839502,1053093301?cc=2016195" ]
+    }
+  }, {
+    "id" : "sd_104",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2C:1052839501,1052839502,1053096301?cc=2016195",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Record Type and Years"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "obitos 0000000000001953, fev-0000000000001954, fev, vol. 0000000000000047",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Óbitos 1953, Fev-1954, Fev, Vol. 47"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/31HK-L2C:1052839501,1052839502,1053096301?cc=2016195" ]
+    }
+  } ],
+  "places" : [ {
+    "id" : "place_5735",
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/platform/places/description/5735" ]
+    }
+  } ]
+}

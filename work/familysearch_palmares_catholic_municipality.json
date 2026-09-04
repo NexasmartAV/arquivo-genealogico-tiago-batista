@@ -1,0 +1,333 @@
+{
+  "links" : {
+    "self" : {
+      "href" : "https://www.familysearch.org/service/cds/recapi/waypoints/MHN2-NZ9:371210801?cc=2177293&offset=0&count=100",
+      "results" : 3
+    }
+  },
+  "description" : "#src_1",
+  "sourceDescriptions" : [ {
+    "id" : "src_1",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/MHN2-NZ9:371210801?cc=2177293",
+    "componentOf" : {
+      "description" : "#src_2"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Palmares"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/MHN2-NZ9:371210801?cc=2177293" ]
+    }
+  }, {
+    "id" : "src_2",
+    "about" : "https://www.familysearch.org/service/cds/recapi/collections/2177293/waypoints",
+    "componentOf" : {
+      "description" : "#src_3"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "coverage" : [ {
+      "spatial" : {
+        "original" : "Pernambuco, Brazil",
+        "description" : "#place_1927159-1929897"
+      },
+      "temporal" : {
+        "original" : "1762/2019",
+        "formal" : "+1762/+2019"
+      },
+      "recordType" : "http://gedcomx.org/Vital"
+    } ],
+    "titles" : [ {
+      "lang" : "pt",
+      "value" : "Brasil, Pernambuco, Registros da Igreja Católica, 1762-2019"
+    }, {
+      "lang" : "en_US",
+      "value" : "Brazil, Pernambuco, Catholic Church Records, 1762-2019"
+    }, {
+      "lang" : "zh",
+      "value" : "巴西，伯南布科，天主教會紀錄，1762 年 - 2019 年"
+    }, {
+      "lang" : "fr",
+      "value" : "Brésil, registres de l'église catholique de Pernambuco, 1762-2019"
+    }, {
+      "lang" : "ru",
+      "value" : "Бразилия, Пернамбуку, записи католической церкви, 1762-2019 гг."
+    }, {
+      "lang" : "no",
+      "value" : "Brazil, Pernambuco, Registre fra den katolske kirke, 1762-2019"
+    }, {
+      "lang" : "es",
+      "value" : "Brasil, Pernambuco, Registros de la Iglesia Católica, 1762-2019"
+    }, {
+      "lang" : "mn",
+      "value" : "Бразил, Пернамбуко, Католик сүмийн бүртгэл, 1762-2019"
+    }, {
+      "lang" : "ko",
+      "value" : "브라질, 페르남부쿠, 가톨릭 교회 기록, 1762-2019"
+    }, {
+      "lang" : "ja",
+      "value" : "ブラジル、ペルナンブーコ州、カトリック教会レコード、1762年-2019年"
+    }, {
+      "lang" : "it",
+      "value" : "Brasile, Pernambuco, Registri della Chiesa Cattolica, 1762-2019"
+    }, {
+      "lang" : "id",
+      "value" : "Brasil, Pernambuco, Catatan Gereja Katolik, 1762-2019"
+    }, {
+      "lang" : "hu",
+      "value" : "Brazília, Pernambuco, Katolikus egyházi nyilvántartás, 1762–2019"
+    }, {
+      "lang" : "sk",
+      "value" : "Brazília, Pernambuco, záznamy katolíckej cirkvi, 1762 – 2019"
+    }, {
+      "lang" : "th",
+      "value" : "บราซิล เปร์นัมบูโก บันทึกศาสนจักรคาทอลิก ปี 1762-2019"
+    }, {
+      "lang" : "to",
+      "value" : "Palāsila, Pernambuco, Lekooti ʻa e Siasi Katoliká, 1762-2019"
+    }, {
+      "lang" : "bg",
+      "value" : "Бразилия, Пернамбуко, Архиви на Католическата църква, 1762-2019"
+    }, {
+      "lang" : "km",
+      "value" : "ប្រេស៊ីល, ពែណាបូកូ, កំណត់ត្រាព្រះវិហារកាតូលិក, ឆ្នាំ 1762-2019"
+    }, {
+      "lang" : "pl",
+      "value" : "Brazylia, Pernambuco, Akta Kościoła Katolickiego, lata 1762-2019"
+    }, {
+      "lang" : "ro",
+      "value" : "Brazilia, Pernambuco, Registrele Bisericii Catolice, 1762-2019"
+    }, {
+      "lang" : "sv",
+      "value" : "Brasilien, Pernambuco, Katolska kyrkans uppteckningar, 1762-2019"
+    }, {
+      "lang" : "sm",
+      "value" : "Brazil, Pernambuco, Hồ Sơ Giáo Hội Công Giáo, 1762-2019"
+    }, {
+      "lang" : "vi",
+      "value" : "Brazil, Pernambuco, Hồ Sơ Giáo Hội Công Giáo, 1762-2019"
+    }, {
+      "lang" : "sq",
+      "value" : "Brazil, Pernambuko, Të dhënat e Kishës Katolike, 1762-2019"
+    }, {
+      "lang" : "de",
+      "value" : "Brasilien, Pernambuco, Catholic Church Records, 1762-2019"
+    }, {
+      "lang" : "uk",
+      "value" : "Бразилія, Пернамбуку, записи католицької церкви, 1762–2019 рр."
+    }, {
+      "lang" : "hr",
+      "value" : "Brazil, Pernambuco, katolički crkveni zapisi, 1762. – 2019."
+    }, {
+      "lang" : "cs",
+      "value" : "Brazílie, Pernambuco, Katolické církevní záznamy, 1762-2019"
+    }, {
+      "lang" : "da",
+      "value" : "Brasilien, Pernambuco, katolske kirkebøger, 1762-2019"
+    }, {
+      "lang" : "nl",
+      "value" : "Brazilië, Pernambuco, katholieke kerkboeken, 1762-2019"
+    }, {
+      "lang" : "et",
+      "value" : "Brasiilia, Pernambuco, katoliku kiriku ülestähendused, 1762–2019"
+    }, {
+      "lang" : "fj",
+      "value" : "Brazil, Pernambuco, iVolatukutuku ni Lotu Katolika, 1762-2019"
+    }, {
+      "lang" : "fi",
+      "value" : "Brasilia, Pernambuco, katolisen kirkon kirkonkirjat, 1762–2019"
+    }, {
+      "lang" : "tl",
+      "value" : "Brazil, Pernambuco, Mga Record ng Simbahang Katoliko, 1762-2019"
+    }, {
+      "lang" : "mg",
+      "value" : "Brezila, Pernambuco, Rakitsoratra momba ny Fiangonana Katôlika, 1762-2019"
+    }, {
+      "lang" : "ceb",
+      "value" : "Brazil, Pernambuco, Mga Rekord sa Simbahang Katoliko, 1762-2019"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/collections/2177293/waypoints" ]
+    }
+  }, {
+    "id" : "src_3",
+    "about" : "https://www.familysearch.org/service/cds/recapi/collections/2177293",
+    "resourceType" : "http://gedcomx.org/Collection",
+    "titles" : [ {
+      "lang" : "pt",
+      "value" : "Brasil, Pernambuco, Registros da Igreja Católica, 1762-2019"
+    }, {
+      "lang" : "en_US",
+      "value" : "Brazil, Pernambuco, Catholic Church Records, 1762-2019"
+    }, {
+      "lang" : "zh",
+      "value" : "巴西，伯南布科，天主教會紀錄，1762 年 - 2019 年"
+    }, {
+      "lang" : "fr",
+      "value" : "Brésil, registres de l'église catholique de Pernambuco, 1762-2019"
+    }, {
+      "lang" : "ru",
+      "value" : "Бразилия, Пернамбуку, записи католической церкви, 1762-2019 гг."
+    }, {
+      "lang" : "no",
+      "value" : "Brazil, Pernambuco, Registre fra den katolske kirke, 1762-2019"
+    }, {
+      "lang" : "es",
+      "value" : "Brasil, Pernambuco, Registros de la Iglesia Católica, 1762-2019"
+    }, {
+      "lang" : "mn",
+      "value" : "Бразил, Пернамбуко, Католик сүмийн бүртгэл, 1762-2019"
+    }, {
+      "lang" : "ko",
+      "value" : "브라질, 페르남부쿠, 가톨릭 교회 기록, 1762-2019"
+    }, {
+      "lang" : "ja",
+      "value" : "ブラジル、ペルナンブーコ州、カトリック教会レコード、1762年-2019年"
+    }, {
+      "lang" : "it",
+      "value" : "Brasile, Pernambuco, Registri della Chiesa Cattolica, 1762-2019"
+    }, {
+      "lang" : "id",
+      "value" : "Brasil, Pernambuco, Catatan Gereja Katolik, 1762-2019"
+    }, {
+      "lang" : "hu",
+      "value" : "Brazília, Pernambuco, Katolikus egyházi nyilvántartás, 1762–2019"
+    }, {
+      "lang" : "sk",
+      "value" : "Brazília, Pernambuco, záznamy katolíckej cirkvi, 1762 – 2019"
+    }, {
+      "lang" : "th",
+      "value" : "บราซิล เปร์นัมบูโก บันทึกศาสนจักรคาทอลิก ปี 1762-2019"
+    }, {
+      "lang" : "to",
+      "value" : "Palāsila, Pernambuco, Lekooti ʻa e Siasi Katoliká, 1762-2019"
+    }, {
+      "lang" : "bg",
+      "value" : "Бразилия, Пернамбуко, Архиви на Католическата църква, 1762-2019"
+    }, {
+      "lang" : "km",
+      "value" : "ប្រេស៊ីល, ពែណាបូកូ, កំណត់ត្រាព្រះវិហារកាតូលិក, ឆ្នាំ 1762-2019"
+    }, {
+      "lang" : "pl",
+      "value" : "Brazylia, Pernambuco, Akta Kościoła Katolickiego, lata 1762-2019"
+    }, {
+      "lang" : "ro",
+      "value" : "Brazilia, Pernambuco, Registrele Bisericii Catolice, 1762-2019"
+    }, {
+      "lang" : "sv",
+      "value" : "Brasilien, Pernambuco, Katolska kyrkans uppteckningar, 1762-2019"
+    }, {
+      "lang" : "sm",
+      "value" : "Brazil, Pernambuco, Hồ Sơ Giáo Hội Công Giáo, 1762-2019"
+    }, {
+      "lang" : "vi",
+      "value" : "Brazil, Pernambuco, Hồ Sơ Giáo Hội Công Giáo, 1762-2019"
+    }, {
+      "lang" : "sq",
+      "value" : "Brazil, Pernambuko, Të dhënat e Kishës Katolike, 1762-2019"
+    }, {
+      "lang" : "de",
+      "value" : "Brasilien, Pernambuco, Catholic Church Records, 1762-2019"
+    }, {
+      "lang" : "uk",
+      "value" : "Бразилія, Пернамбуку, записи католицької церкви, 1762–2019 рр."
+    }, {
+      "lang" : "hr",
+      "value" : "Brazil, Pernambuco, katolički crkveni zapisi, 1762. – 2019."
+    }, {
+      "lang" : "cs",
+      "value" : "Brazílie, Pernambuco, Katolické církevní záznamy, 1762-2019"
+    }, {
+      "lang" : "da",
+      "value" : "Brasilien, Pernambuco, katolske kirkebøger, 1762-2019"
+    }, {
+      "lang" : "nl",
+      "value" : "Brazilië, Pernambuco, katholieke kerkboeken, 1762-2019"
+    }, {
+      "lang" : "et",
+      "value" : "Brasiilia, Pernambuco, katoliku kiriku ülestähendused, 1762–2019"
+    }, {
+      "lang" : "fj",
+      "value" : "Brazil, Pernambuco, iVolatukutuku ni Lotu Katolika, 1762-2019"
+    }, {
+      "lang" : "fi",
+      "value" : "Brasilia, Pernambuco, katolisen kirkon kirkonkirjat, 1762–2019"
+    }, {
+      "lang" : "tl",
+      "value" : "Brazil, Pernambuco, Mga Record ng Simbahang Katoliko, 1762-2019"
+    }, {
+      "lang" : "mg",
+      "value" : "Brezila, Pernambuco, Rakitsoratra momba ny Fiangonana Katôlika, 1762-2019"
+    }, {
+      "lang" : "ceb",
+      "value" : "Brazil, Pernambuco, Mga Rekord sa Simbahang Katoliko, 1762-2019"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/collections/2177293" ]
+    }
+  }, {
+    "id" : "sd_4",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/MHN5-WNG:371210801,371800401?cc=2177293",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Parish"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "belem de maria",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Belém de Maria"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/MHN5-WNG:371210801,371800401?cc=2177293" ]
+    }
+  }, {
+    "id" : "sd_5",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/MHN2-NZS:371210801,371210802?cc=2177293",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Parish"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "palmares",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Palmares"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/MHN2-NZS:371210801,371210802?cc=2177293" ]
+    }
+  }, {
+    "id" : "sd_6",
+    "about" : "https://www.familysearch.org/service/cds/recapi/waypoints/MHN5-W29:371210801,371212402?cc=2177293",
+    "componentOf" : {
+      "description" : "#src_1"
+    },
+    "titleLabel" : {
+      "lang" : "en_US",
+      "value" : "Parish"
+    },
+    "resourceType" : "http://gedcomx.org/Collection",
+    "sortKey" : "santana",
+    "titles" : [ {
+      "lang" : "en_US",
+      "value" : "Santana"
+    } ],
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://www.familysearch.org/service/cds/recapi/waypoints/MHN5-W29:371210801,371212402?cc=2177293" ]
+    }
+  } ],
+  "places" : [ {
+    "id" : "place_1927159-1929897",
+    "identifiers" : {
+      "http://gedcomx.org/Primary" : [ "https://api.familysearch.org/authorities/v1/place/1929897?context=1927159" ]
+    }
+  } ]
+}

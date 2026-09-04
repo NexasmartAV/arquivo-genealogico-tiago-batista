@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Memória da Família — árvore genealógica documental e navegável." />
+    <title>Memória da Família — Arquivo Genealógico Vivo</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="timeline.css" />
+    <link rel="stylesheet" href="family-navigator.css" />
+    <link rel="stylesheet" href="photo-preview.css" />
+    <link rel="stylesheet" href="photo-persistence.css" />
+    <link rel="stylesheet" href="profile-drawer.css" />
+    <link rel="stylesheet" href="tree-clean.css" />
+    <link rel="stylesheet" href="family-reference-tree.css?v=2-stable-portraits" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">MEMÓRIA FAMILIAR • VERSÃO LOCAL</p>
+        <h1>Memória da Família — Arquivo Genealógico Vivo</h1>
+      </div>
+      <span class="privacy-badge">Fontes sensíveis protegidas</span>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="intro-title">
+        <div>
+          <p class="eyebrow">RAMOS BATISTA, PEREIRA E LEMOS</p>
+          <h2 id="intro-title">Uma árvore que mostra o que está comprovado — e o que ainda estamos procurando.</h2>
+          <p>Esta página reúne somente informações genealógicas necessárias. Certidões, declarações e imagens originais ficam em arquivo restrito e não são exibidos aqui.</p>
+        </div>
+        <div class="stats" aria-label="Resumo da pesquisa">
+          <div><strong id="statPeople">0</strong><span>pessoas mapeadas</span></div>
+          <div><strong id="statDocs">0</strong><span>fontes diretas</span></div>
+          <div><strong id="statOpen">0</strong><span>frentes abertas</span></div>
+        </div>
+      </section>
+
+      <section class="controls" aria-label="Navegação da árvore">
+        <div class="family-entry"><label class="search"><span>Encontre seu nome na lista mestre</span><input id="search" type="search" placeholder="Digite seu nome completo" /></label><button id="enter-family" type="button">Ver minha família</button><button id="show-full-tree" type="button" hidden>Ver árvore completa</button></div>
+        <div class="legend" aria-label="Legenda de evidências">
+          <span><i class="dot verified"></i>Documentado</span>
+          <span><i class="dot report"></i>Relato / pista</span>
+          <span><i class="dot open"></i>Pendente</span>
+        </div>
+      </section>
+
+      <section class="workspace">
+        <section class="tree-panel" aria-labelledby="tree-title">
+          <div class="section-heading"><div><p class="eyebrow">ÁRVORE DE DESCENDÊNCIA</p><h2 id="tree-title">Origens, casais e gerações</h2></div><p>Os casais aparecem juntos e os descendentes seguem abaixo, em ordem cronológica.</p></div>
+          <div id="tree" class="tree" aria-live="polite"></div>
+        </section>
+        <aside class="detail-panel" aria-labelledby="detail-name">
+          <p class="eyebrow">PERFIL FAMILIAR</p>
+          <h2 id="detail-name">Selecione uma pessoa</h2>
+          <p id="detail-subtitle">Os fatos mostrados serão sempre acompanhados de seu estado de evidência.</p>
+          <div id="detail-content"></div>
+        </aside>
+      </section>
+
+      <section class="timeline-section" aria-labelledby="timeline-title">
+        <div class="section-heading">
+          <div><p class="eyebrow">TEMPO E MEMÓRIA</p><h2 id="timeline-title">Linha do tempo da família</h2></div>
+          <p>As datas com fonte e as pistas familiares aparecem de formas diferentes.</p>
+        </div>
+        <div id="timeline" class="timeline" aria-live="polite"></div>
+      </section>
+
+      <section class="sources" aria-labelledby="sources-title">
+        <div class="section-heading"><div><p class="eyebrow">RIGOR DOCUMENTAL</p><h2 id="sources-title">Fontes e próximas certidões</h2></div></div>
+        <div id="sources-grid" class="source-grid"></div>
+      </section>
+    </main>
+
+    <footer>
+      <p>Arquivo genealógico local. Antes de publicar ou compartilhar fora da família, revisar privacidade e confirmar cada pessoa marcada como pendente.</p>
+    </footer>
+    <script src="app.js?v=20260902-memorial-donzilia"></script>
+    <script src="timeline.js"></script>
+    <script src="family-navigator.js"></script>
+    <script src="photo-preview.js?v=20260902-stable-portraits"></script>
+    <script src="family-reference-tree.js?v=2-stable-portraits"></script>
+    <script src="profile-drawer.js"></script>
+  </body>
+</html>
