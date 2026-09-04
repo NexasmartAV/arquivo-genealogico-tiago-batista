@@ -170,8 +170,21 @@
   function focus(id){focusId=id;const seen=new Set();function reveal(g){if(!g||seen.has(g))return;seen.add(g);g.parents.forEach(p=>{expanded.add(p.id);reveal(p)})}reveal(owner.get(id));render();const g=owner.get(id);if(g){viewport.scrollLeft=g.x*zoom-viewport.clientWidth/2;viewport.scrollTop=Math.max(0,g.y*zoom-80)}document.querySelector('#show-full-tree').hidden=false}
   window.renderFamilyBranch=render;window.focusFamilyBranch=focus;
   const oldSearch=document.querySelector('#search'),search=oldSearch.cloneNode(true);oldSearch.replaceWith(search);
-  function lookup(){const term=search.value.trim().toLocaleLowerCase();const p=people.find(p=>p.name.toLocaleLowerCase()===term)||people.find(p=>term&&p.name.toLocaleLowerCase().includes(term));if(p)focus(p.id)}
-  search.addEventListener('change',lookup);search.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();lookup()}});
+  // The reference tree replaces the original search input, so it owns both
+  // autocomplete and the navigation action from this point onward.
+  const normalise=value=>String(value||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase().replace(/\s+/g,' ').trim();
+  const masterList=document.createElement('datalist');masterList.id='family-master-list';
+  people.slice().sort((a,b)=>a.name.localeCompare(b.name,'pt-BR')).forEach(person=>{const option=document.createElement('option');option.value=person.name;masterList.append(option)});
+  search.setAttribute('list',masterList.id);search.setAttribute('autocomplete','off');search.insertAdjacentElement('afterend',masterList);
+  const searchStatus=document.createElement('p');searchStatus.className='search-status';searchStatus.setAttribute('aria-live','polite');searchStatus.hidden=true;search.insertAdjacentElement('afterend',searchStatus);
+  function lookup({announce=true}={}){
+    const term=normalise(search.value);if(!term){search.removeAttribute('aria-invalid');searchStatus.hidden=true;return null}
+    const words=term.split(' ');const p=people.find(person=>normalise(person.name)===term)||people.find(person=>words.every(word=>normalise(person.name).includes(word)));
+    if(p){search.removeAttribute('aria-invalid');searchStatus.hidden=true;focus(p.id);return p}
+    search.setAttribute('aria-invalid','true');if(announce){searchStatus.textContent='Nenhuma pessoa encontrada. Confira o nome ou escolha uma sugestão da lista.';searchStatus.hidden=false}return null;
+  }
+  search.addEventListener('input',()=>{if(search.value.trim().length>=2)lookup({announce:false});else{search.removeAttribute('aria-invalid');searchStatus.hidden=true}});
+  search.addEventListener('change',()=>lookup());search.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();lookup()}});
   const oldEnter=document.querySelector('#enter-family'),enter=oldEnter.cloneNode(true);oldEnter.replaceWith(enter);enter.addEventListener('click',lookup);
   const oldBack=document.querySelector('#show-full-tree'),back=oldBack.cloneNode(true);oldBack.replaceWith(back);back.addEventListener('click',()=>{focusId=null;search.value='';render();back.hidden=true});
   document.querySelector('.hero').classList.add('reference-intro');
