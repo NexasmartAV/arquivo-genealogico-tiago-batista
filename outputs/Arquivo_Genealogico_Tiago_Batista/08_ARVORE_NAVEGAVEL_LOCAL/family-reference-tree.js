@@ -167,7 +167,7 @@
   viewport.addEventListener('pointermove',e=>{if(drag){viewport.scrollLeft=drag.left-(e.clientX-drag.x);viewport.scrollTop=drag.top-(e.clientY-drag.y)}});
   const endDrag=()=>{drag=null;viewport.classList.remove('dragging')};viewport.addEventListener('pointerup',endDrag);viewport.addEventListener('pointercancel',endDrag);
   viewport.addEventListener('scroll',rememberView);
-  function focus(id){focusId=id;const seen=new Set();function reveal(g){if(!g||seen.has(g))return;seen.add(g);g.parents.forEach(p=>{expanded.add(p.id);reveal(p)})}reveal(owner.get(id));render();const g=owner.get(id);if(g){viewport.scrollLeft=g.x*zoom-viewport.clientWidth/2;viewport.scrollTop=Math.max(0,g.y*zoom-80)}document.querySelector('#show-full-tree').hidden=false}
+  function focus(id){focusId=id;const seen=new Set();function reveal(g){if(!g||seen.has(g))return;seen.add(g);g.parents.forEach(p=>{expanded.add(p.id);reveal(p)})}reveal(owner.get(id));const g=owner.get(id),donziliaGroup=owner.get('donzilia');if(g&&(g===donziliaGroup||g.parents.includes(donziliaGroup)))expanded.add(donziliaGroup.id);render();if(g){viewport.scrollLeft=g.x*zoom-viewport.clientWidth/2;viewport.scrollTop=Math.max(0,g.y*zoom-80)}document.querySelector('#show-full-tree').hidden=false}
   window.renderFamilyBranch=render;window.focusFamilyBranch=focus;
   const oldSearch=document.querySelector('#search'),search=oldSearch.cloneNode(true);oldSearch.replaceWith(search);
   // The reference tree replaces the original search input, so it owns both

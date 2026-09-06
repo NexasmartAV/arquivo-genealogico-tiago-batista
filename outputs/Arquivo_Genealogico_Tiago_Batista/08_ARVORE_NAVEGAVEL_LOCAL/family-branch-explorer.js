@@ -16,7 +16,7 @@
   const familyUnits={
     'antonio-simone':{parents:['antonio-vitorino'],children:['simone-filha-antonio'],label:'Antônio — descendência possível'},
     'cleusa-jesse':{parents:['cleusa-porcina','jesse-porcina'],children:['gleiton-porcina','patricia-porcina','beatriz-porcina'],label:'Cleusa e Jessé'},
-    'donzilia-filhos':{parents:['donzilia'],children:['magali-donzilia','marli-donzilia','eugenio-donzilia'],label:'Donzília — filhos documentados'},
+    'donzilia-filhos':{parents:['donzilia','eloi-adelino-mendes'],children:['magali-donzilia','marli-donzilia','eugenio-donzilia'],label:'Donzília e Eloi — filhos documentados de Donzília'},
     'jose-iraci':{parents:['jose','iraci'],children:['everaldo','ivan','ivanildo','ivaneth','ivanize','edson'],label:'José e Iraci'},
     'everaldo-mikita':{parents:['everaldo','mikita-everaldo'],children:['jorge-everaldo','kleber-everaldo','leila-everaldo','kelly-everaldo'],label:'Everaldo e Mikita'},
     'kleber-pedro':{parents:['kleber-everaldo'],children:['pedro-kleber'],label:'Kleber'},
