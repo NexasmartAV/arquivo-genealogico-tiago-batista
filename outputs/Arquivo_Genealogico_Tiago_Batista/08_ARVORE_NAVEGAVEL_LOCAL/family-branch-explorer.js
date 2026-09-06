@@ -16,6 +16,7 @@
   const familyUnits={
     'antonio-simone':{parents:['antonio-vitorino'],children:['simone-filha-antonio'],label:'Antônio — descendência possível'},
     'cleusa-jesse':{parents:['cleusa-porcina','jesse-porcina'],children:['gleiton-porcina','patricia-porcina','beatriz-porcina'],label:'Cleusa e Jessé'},
+    'donzilia-filhos':{parents:['donzilia'],children:['magali-donzilia','marli-donzilia','eugenio-donzilia'],label:'Donzília — filhos documentados'},
     'jose-iraci':{parents:['jose','iraci'],children:['everaldo','ivan','ivanildo','ivaneth','ivanize','edson'],label:'José e Iraci'},
     'everaldo-mikita':{parents:['everaldo','mikita-everaldo'],children:['jorge-everaldo','kleber-everaldo','leila-everaldo','kelly-everaldo'],label:'Everaldo e Mikita'},
     'kleber-pedro':{parents:['kleber-everaldo'],children:['pedro-kleber'],label:'Kleber'},
@@ -39,7 +40,7 @@
   function renderFamilyUnit(id,isNested=false){const unit=familyUnits[id];if(!unit)return '';const hasChildren=unit.children.length||unit.pendingChildren;const isOpen=openFamilyBranches.has(id);const children=isOpen&&unit.children.length?`<div class="unit-children">${unit.children.map(child=>`<div class="unit-child">${childFamily[child]?renderFamilyUnit(childFamily[child],true):personCard(child)}</div>`).join('')}</div>`:'';const pending=isOpen&&unit.pendingChildren?`<div class="pending-child-note">1 filho informado — nome pendente</div>`:'';return `<article class="family-unit ${isNested?'nested-unit':'root-unit'}" data-family-unit="${id}"><span class="couple-label">${unit.label}</span><div class="unit-couple">${unit.parents.map(personCard).join('')}</div>${hasChildren?`<button class="unit-toggle" type="button" data-family-toggle="${id}" aria-expanded="${isOpen}">${isOpen?'− Fechar filhos':`+ Abrir filhos${unit.children.length?` (${unit.children.length})`:''}`}</button>`:''}${children}${pending}</article>`}
   function renderDescendantTree(){
     focusMode=false;
-    const joseSiblings=showJoseSiblings?`<div class="grandparent-siblings">${personCard('donzilia')}${personCard('romeu-pereira')}${personCard('elisa-pereira')}</div>`:'';
+    const joseSiblings=showJoseSiblings?`<div class="grandparent-siblings">${renderFamilyUnit('donzilia-filhos')}${personCard('romeu-pereira')}${personCard('elisa-pereira')}</div>`:'';
     const pereiraOrigin=`<article class="grandparent-branch">${couple(['joventino','maria-joaquina'],'Origem Pereira')}<button class="family-expand inline-family-expand" type="button" data-toggle-jose-siblings aria-expanded="${showJoseSiblings}">${showJoseSiblings?'− Fechar outros filhos':'+ Abrir filhos (4)'}</button>${joseSiblings}</article>`;
     const batistaOrigin=showBatistaParentsChildren?couple(['antonio','maria-joana'],'Antonio e Maria Joana'):'';
     const origins=[pereiraOrigin,batistaOrigin].join('');
@@ -86,6 +87,7 @@
     {parents:['joana-maria-lima'],children:['maria-joana']},
     {parents:['joventino','maria-joaquina'],children:['jose']},
     {parents:['joventino','maria-joaquina'],children:['donzilia','romeu-pereira','elisa-pereira']},
+    {parents:['donzilia'],children:['magali-donzilia','marli-donzilia','eugenio-donzilia']},
     {parents:['antonio','maria-joana'],children:['iraci']},
     {parents:['jose','iraci'],children:['paternal-siblings']},
     {parents:['paternal-siblings'],children:['everaldo','ivan','ivanildo','ivaneth','ivanize','edson']},
