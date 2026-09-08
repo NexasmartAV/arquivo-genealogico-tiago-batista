@@ -27,8 +27,12 @@
   const ancestry=new Set();
   function ancestors(g){if(!g||ancestry.has(g))return;ancestry.add(g);g.parents.forEach(ancestors)}
   ancestors(owner.get('tiago'));
-  const roots=[...ancestry].filter(g=>!g.parents.length);
-  const generationHints={'eleuterio-batista':0,'joana-maria-lima':0,joventino:1,'joao-vitorino':2};
+  // Candidate parentage is rendered in red and is explicitly non-confirmatory.
+  // It is visible above Joventino so the lead can be investigated without being
+  // mistaken for a documented lineage.
+  const candidateRoots=people.filter(p=>p.tone==='open').map(p=>owner.get(p.id)).filter(Boolean);
+  const roots=[...new Set([...ancestry].filter(g=>!g.parents.length).concat(candidateRoots))];
+  const generationHints={'manoel-honorato-candidato':0,'maria-conceicao-candidata':0,'eleuterio-batista':0,'joana-maria-lima':0,joventino:1,'joao-vitorino':2};
   roots.forEach(g=>g.rank=generationHints[g.id]??0);
   for(let pass=0;pass<groups.length;pass++){
     let changed=false;
@@ -107,9 +111,11 @@
     worldHeight=(Math.max(...rows.keys())+1)*270+90;
   }
   function personPosition(g,id){const i=g.ids.indexOf(id);return g.x-g.width/2+i*178+75}
+  function currentAge(birth){const match=/^(\d{2})\/(\d{2})\/(\d{4})$/.exec(birth||'');if(!match)return null;const now=new Date(),day=Number(match[1]),month=Number(match[2])-1,year=Number(match[3]);let age=now.getFullYear()-year;if(now.getMonth()<month||(now.getMonth()===month&&now.getDate()<day))age--;return age>=0?age:null}
   function portrait(g,id){
-    const p=byId[id],deceased=Boolean(p.death||p.deathPending),dates=[p.birth||'',p.death?`† ${p.death}`:p.deathPending?'† data pendente':''].filter(Boolean).join(' · ');
-    return `<button class="reference-person${deceased?' memorial':''}${id===focusId?' selected':''}" data-reference-person="${escape(id)}" style="left:${personPosition(g,id)-75}px;top:${g.y+40}px;--branch-color:${['#369bb8','#4977b6','#46a8a1','#8b71b2'][g.rank%4]}" aria-label="Abrir detalhes de ${escape(p.name)}">${deceased?'<span class="reference-crown" aria-hidden="true">♛</span>':''}<span class="reference-portrait" data-photo-person="${escape(id)}"><span>${escape(p.name.charAt(0))}</span></span><strong>${escape(p.name)}</strong>${dates?`<small>${escape(dates)}</small>`:''}</button>`;
+    const p=byId[id],deceased=Boolean(p.death||p.deathPending),age=p.living?currentAge(p.birth):null,dates=[p.birth||'',age===null?'':`${age} anos`,p.death?`† ${p.death}`:p.deathPending?'† data pendente':''].filter(Boolean).join(' · ');
+    const candidate=p.tone==='open';
+    return `<button class="reference-person${deceased?' memorial':''}${candidate?' candidate':''}${id===focusId?' selected':''}" data-reference-person="${escape(id)}" style="left:${personPosition(g,id)-75}px;top:${g.y+40}px;--branch-color:${candidate?'#bd493e':['#369bb8','#4977b6','#46a8a1','#8b71b2'][g.rank%4]}" aria-label="Abrir detalhes de ${escape(p.name)}">${deceased?'<span class="reference-crown" aria-hidden="true">♛</span>':''}<span class="reference-portrait" data-photo-person="${escape(id)}"><span>${escape(p.name.charAt(0))}</span></span><strong>${escape(p.name)}</strong>${candidate?'<em class="reference-candidate-label">A confirmar</em>':''}${dates?`<small>${escape(dates)}</small>`:''}</button>`;
   }
   function render(){
     const visible=shown();layout(visible);const strokes=[],nodes=[],routes=[],lanesByRank=new Map(),siblingRoutes=[],siblingLanes=new Map(),seenSiblings=new Set();
@@ -124,7 +130,7 @@
     // A separate horizontal lane for every overlapping family prevents false merged lines.
     for(const g of visible){if(!expanded.has(g.id))continue;const targets=new Map();
       g.children.filter(e=>visible.has(e.group)).forEach(e=>{if(!targets.has(e.group.rank))targets.set(e.group.rank,[]);targets.get(e.group.rank).push(e)});
-      for(const [rank,edges] of targets){const xs=edges.map(e=>personPosition(e.group,e.person));const routeX=rank>g.rank+1?worldWidth-24-(groups.indexOf(g)%4)*7:g.x;
+      for(const [rank,edges] of targets){const xs=edges.map(e=>personPosition(e.group,e.person));const routeX=g.x;
         routes.push({g,rank,edges,xs,routeX,left:Math.min(routeX,...xs),right:Math.max(routeX,...xs)});
       }
     }
@@ -146,7 +152,9 @@
       const outY=g.ids.length>1?g.y+130:g.y+(g.siblings.length?250:228),departureY=g.y+274;
       const stem=routeX===g.x?`M${g.x} ${outY}V${bus}`:`M${g.x} ${outY}V${departureY}H${routeX}V${bus}`;
       const d=stem+`M${route.left} ${bus}H${route.right}`+xs.map(x=>`M${x} ${bus}V${endY}`).join('');
-      strokes.push(`<g class="reference-descent" data-parent-family="${escape(g.id)}" data-children="${escape(edges.map(e=>e.person).join(' '))}"><path class="connection-clearance" d="${d}"/><path d="${d}"/></g>`);
+      const tentative=g.ids.some(id=>byId[id]?.tone==='open');
+      strokes.push(`<g class="reference-descent${tentative?' tentative-descent':''}" data-parent-family="${escape(g.id)}" data-children="${escape(edges.map(e=>e.person).join(' '))}"><path class="connection-clearance" d="${d}"/><path d="${d}"/></g>`);
+      if(tentative)nodes.push(`<span class="reference-tentative-caption" style="left:${routeX-42}px;top:${bus-17}px">a confirmar</span>`);
     }
     canvas.style.width=worldWidth+'px';canvas.style.height=worldHeight+'px';
     canvas.innerHTML=`<svg class="reference-lines" width="${worldWidth}" height="${worldHeight}" aria-hidden="true">${strokes.join('')}</svg>${nodes.join('')}`;
